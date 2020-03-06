@@ -1,0 +1,2 @@
+# notes
+Recording some knowledge.
